@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tictoe</string>
+    <string name="splash">Cristian</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
